@@ -32,6 +32,9 @@ theme:
     - toc.follow
     - navigation.top
     - search.suggest
+    - search.highlight
+    - search.share
+    
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
   - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
