@@ -2,6 +2,12 @@
 Welcome to NeverTaking Support!
 
 
+# Tags
+
+Following is a list of relevant tags:
+
+[TAGS]
+
 ## Support roamlinks
 
 | origin                  | convert                             |
