@@ -14,16 +14,16 @@ theme:
   icon:
     repo: fontawesome/brands/git-alt 
     
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: light green
       toggle:
-        icon: material/brightness-7
+        icon: material/brightness-7 
         name: Switch to dark mode
+
+    # Palette toggle for dark mode
     - scheme: slate
-      primary: indigo
-      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
