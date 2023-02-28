@@ -29,17 +29,37 @@ theme:
         name: Switch to light mode
 
   features:
+    - announce.dismiss
     - content.action.edit
-    - navigation.expand 
-    - navigation.instant
-    - tabs 
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
     - navigation.tabs
-    - navigation.tabs.sticky
-    - toc.follow
     - navigation.top
-    - search.suggest
+    - navigation.tracking
     - search.highlight
     - search.share
+    - search.suggest
+    - toc.follow
+
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    
+    
 edit_uri: edit/master/docs/
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
