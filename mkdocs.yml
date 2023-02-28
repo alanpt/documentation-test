@@ -74,10 +74,11 @@ markdown_extensions:
 plugins:
   - search
   - git-revision-date-localized
-  - git-authors
+  - git-authors:
         show_email_address: false
         fallback_to_empty: false
         sort_authors_by: contribution 
+        
   - roamlinks 
     #- autolinks 
   - exclude:
