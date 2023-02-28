@@ -2,7 +2,9 @@
 title: Title of article
 description: Description of this article
 subtitle: This is the subtitle
-
+tags: 
+  - demo
+  - lorem
 ---
 
 # Document title
