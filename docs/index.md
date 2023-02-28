@@ -8,13 +8,13 @@ Following is a list of relevant tags:
 
 [TAGS]
 
-## Support roamlinks
+## Support easy linking
+By using square brackets you can point to different sections of the website. They are found regardless of location or if they are moved.
 
-| origin                  | convert                             |
+| original                  | conversion                             |
 | ----------------------- | ----------------------------------- |
-| `[Git Flow](git_flow.md)` | `[Git Flow](../software/git_flow.md)` |
-| `[[Git Flow]]`            | `[Git Flow](../software/git_flow.md)` |
-| `![[image.png]]`           | `![image.png](../image/imag.png)`      |
-| `[[#Heading identifiers]]` | `[Heading identifiers in HTML](#heading-identifiers-in-html)`|
-| `[[Git Flow#Heading]]`     |  `[Git Flow](../software/git_flow.md#heading)` |
+| Automatic link to page `[[Git Flow]]`            | `[Git Flow](../software/git_flow.md)` |
+| Automatic link to image`![[image.png]]`           | `![image.png](../image/image.png)`      |
+| Linking to ref `[[#subheading]]` | `[subheading](#subheading)`|
+| Linking to ref on other page `[[Other Page#Subheading]]`     |  `[Other Page](../software/Other_Page.md#Subheading)` |
 
