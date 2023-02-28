@@ -7,6 +7,7 @@ repo_url: https://github.com/alanpt/documentation-test
 theme:
   name: material
   #  favicon: attachment/alan.png
+  custom_dir: docs/overrides
   language: en
   icon:
     logo: material/library 
