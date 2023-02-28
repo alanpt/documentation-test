@@ -1,4 +1,4 @@
-# Tutorial教程
+# Tutorial
 
 * Share your **foam/obsidian/markdown** notes in a simple and intuitive way ! Support [[roamlike link]] 
 * You can share your foam/obsidian note using this template
