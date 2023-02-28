@@ -2,3 +2,4 @@
 
 * [[tutorial]]
 * [[index]]
+* [[test]]
