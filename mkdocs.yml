@@ -7,7 +7,9 @@ theme:
   name: material
   #  favicon: attachment/alan.png
   language: en
-  logo: assets/logo.svg
+  icon:
+    logo: material/library 
+
   features:
     - navigation.expand 
     - tabs 
