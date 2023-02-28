@@ -1,8 +1,5 @@
-# Foam-mkdocs-template
-Welcome to Foam-mkdocs-template! [[#support roamlinks]]!
-
-* How to create this website and share your foam/obsidian notes? See: [[tutorial]]
-* [foam](https://github.com/foambubble/foam)
+# NeverTaking Support
+Welcome to NeverTaking Support!
 
 
 ## Support roamlinks
