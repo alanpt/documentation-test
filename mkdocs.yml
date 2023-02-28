@@ -3,12 +3,16 @@
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
 site_name: NeverTaking Support
+repo_url: https://github.com/alanpt/documentation-test
 theme:
   name: material
   #  favicon: attachment/alan.png
   language: en
   icon:
     logo: material/library 
+  icon:
+    repo: fontawesome/brands/git-alt 
+
   palette: 
 
     # Palette toggle for light mode
@@ -22,8 +26,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-
   features:
+    - content.action.edit
     - navigation.expand 
     - navigation.instant
     - tabs 
@@ -34,7 +38,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-    
+edit_uri: edit/master/docs/
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
   - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
