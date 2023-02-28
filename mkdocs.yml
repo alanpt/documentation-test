@@ -13,7 +13,7 @@ theme:
     logo: material/library 
   icon:
     repo: fontawesome/brands/git-alt 
-
+    
   palette: 
 
     # Palette toggle for light mode
@@ -27,6 +27,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+
   features:
     - content.action.edit
     - navigation.expand 
