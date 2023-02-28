@@ -2,10 +2,10 @@
 # mkdocs-material: https://squidfunk.github.io/mkdocs-material/
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
-site_name: Documentation-Test
+site_name: NeverTaking Support
 theme:
   name: material
-  #  favicon: attachment/portrait.png
+  #  favicon: attachment/alan.png
   language: en
   features:
     - navigation.expand 
