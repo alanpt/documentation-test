@@ -41,6 +41,7 @@ theme:
     - navigation.sections
 #   - navigation.tabs
     - navigation.sections
+    
     - navigation.expand
     - navigation.top
     - navigation.tracking
