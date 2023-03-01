@@ -1,4 +1,4 @@
-# NeverTaking Support
+# Index
 Welcome to NeverTaking Support!
 
 
