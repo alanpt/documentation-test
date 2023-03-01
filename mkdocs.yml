@@ -4,6 +4,7 @@
 
 site_name: NeverTaking Support
 repo_url: https://github.com/alanpt/documentation-test
+repo_name: alanpt/support
 theme:
   name: material
   #  favicon: attachment/alan.png
