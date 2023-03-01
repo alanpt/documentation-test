@@ -1,9 +1,10 @@
 ---
 title: Index
-description: Fronpage of Support
+description: Frontpage of Support
 subtitle: A subtitle
 ---
 ![[logo.svg]]
+# Welcome
 
 ## Top Issues
 
