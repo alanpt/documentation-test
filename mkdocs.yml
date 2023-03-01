@@ -82,8 +82,9 @@ markdown_extensions:
   - pymdownx.tilde
 plugins:
   - search
-  - tags
+  - tags:
       tags_file: tags.md
+
   - git-revision-date-localized
   - git-authors:
         show_email_address: false
