@@ -19,7 +19,7 @@ jobs:
       - run: pip3 install mkdocs-git-authors-plugin
       - run: pip install mkdocs-link-marker
       - run: pip install mkdocs-add-teaser
-      - run: pip pip install mkdocs-categories-plugin
+      - run: pip install mkdocs-categories-plugin
 
       
       - run: mkdocs gh-deploy --force
