@@ -5,6 +5,10 @@ subtitle: This is the subtitle
 tags: 
   - demo
   - lorem
+
+categories:
+    - Tutorial
+    - FAQ
 ---
 
 # Document title
