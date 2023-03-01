@@ -3,7 +3,7 @@ title: Index
 description: Fronpage of Support
 subtitle: A subtitle
 ---
-![[logo]]
+![[logo.svg]]
 
 
 # Tags
