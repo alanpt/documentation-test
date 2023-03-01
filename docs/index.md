@@ -1,3 +1,9 @@
+---
+title: Index
+description: Fronpage of Support
+subtitle: A subtitle
+---
+
 # Index
 Welcome to NeverTaking Support!
 
