@@ -84,6 +84,7 @@ markdown_extensions:
 plugins:
   - search
   - link-marker
+  - categories
 
   - mkdocs-add-teaser:
         teaser_class: 'teaser'
