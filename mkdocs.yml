@@ -83,6 +83,11 @@ markdown_extensions:
   - pymdownx.tilde
 plugins:
   - search
+  - link-marker
+
+  - mkdocs-add-teaser:
+        teaser_class: 'teaser'
+        add_to_meta: true
   - tags:
       tags_file: tags.md
 
