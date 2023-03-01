@@ -1,2 +1,2 @@
 # Advanced
-This is the advanced section
+This is the advanced section.
