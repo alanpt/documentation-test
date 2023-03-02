@@ -81,9 +81,10 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tasklist
   - pymdownx.tilde
-  
 extra:
-  analytics: 
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX  
     feedback:
       title: Was this page helpful?
       ratings:
