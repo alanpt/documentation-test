@@ -1,7 +1,7 @@
 ---
 title: How do I access Waysact support?
 categories:
-   - faq
+   - FAQ
 ---
 # How do I access Waysact support?
 
