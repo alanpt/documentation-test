@@ -1,6 +1,7 @@
 ---
+title: Can I request new features?
 categories:
-   - faq
+   - FAQ
 ---
 # Can I request new features?
 
