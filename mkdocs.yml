@@ -7,7 +7,6 @@ repo_url: https://github.com/alanpt/documentation-test
 repo_name: alanpt/support
 theme:
   name: material
-  #  favicon: attachment/alan.png
   custom_dir: docs/overrides
   language: en
   icon:
@@ -16,7 +15,6 @@ theme:
     repo: fontawesome/brands/git-alt 
     
   palette: 
-
     # Palette toggle for light mode
     - scheme: light green
       toggle:
@@ -39,9 +37,6 @@ theme:
     - navigation.footer
     - navigation.indexes
     - navigation.sections
-#   - navigation.tabs
-    - navigation.sections
-    
     - navigation.expand
     - navigation.top
     - navigation.tracking
@@ -72,8 +67,8 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
-  # - pymdownx.emoji:
-      # emoji_generator: !!python/name:pymdownx.emoji.to_png
+ - pymdownx.emoji:
+       emoji_generator: !!python/name:pymdownx.emoji.to_png
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
@@ -104,13 +99,12 @@ extra:
 plugins:
   - search
   - link-marker
-  - categories
 
   - mkdocs-add-teaser:
         teaser_class: 'teaser'
         add_to_meta: true
   - tags:
-      tags_file: tags.md
+      tags_file: Advanced/tags.md
 
   - git-revision-date-localized
   - git-authors:
