@@ -1,6 +1,6 @@
 ---
 categories:
-	- faq
+   - faq
 ---
 # Can I request new features?
 
