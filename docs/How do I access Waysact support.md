@@ -1,5 +1,6 @@
 ---
 categories:
+   - faq
 ---
 # How do I access Waysact support?
 
