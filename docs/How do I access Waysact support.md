@@ -1,7 +1,6 @@
-```
+---
 categories:
-	- faq
-```
+---
 # How do I access Waysact support?
 
 Your account is available to you 24/7 and logging in as an Administrator
