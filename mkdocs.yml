@@ -35,6 +35,8 @@ theme:
     - content.tooltips
     - navigation.instant
 #    - navigation.tabs
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.footer
     - navigation.indexes
 #    - navigation.sections
