@@ -1,7 +1,7 @@
-```
+---
 categories:
 	- faq
-```
+---
 # Can I request new features?
 
 Absolutely! We are constantly tweaking and improving our app based on
