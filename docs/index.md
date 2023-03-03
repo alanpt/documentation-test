@@ -17,12 +17,11 @@ This page will showcase and explain:
 - How To Section (The bulk of the articles)
 - Tips and Tricks Section
 - Advanced Section
-
-
-      <!-- Button to open search -->
-      <label class="md-search__icon md-icon" for="__search">
+<div>
+<!-- Button to open search -->
+<label class="md-search__icon md-icon" for="__search">
         {% include ".icons/material/magnify.svg" %}
         {% include ".icons/material/arrow-left.svg" %}
-      </label>
-
+</label>
+</div>
 
