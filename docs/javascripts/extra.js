@@ -1,5 +1,5 @@
 // Get references to the form fields
-var input1 = document.getElementById("input1");
+var input1 = document.getElementById("form1");
 //var input2 = document.getElementById("input2");
 const input2 = document.querySelector('input[name="query"].md-search__input[data-md-component="search-query"]');
 // Add an event listener to field1 that listens for "input" events
