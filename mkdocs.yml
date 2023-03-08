@@ -10,12 +10,13 @@ theme:
   custom_dir: docs/overrides
   language: en
   icon:
-    logo: docs/attachment/logo.png 
+    logo: assets/logo.png
   icon:
     repo: fontawesome/brands/git-alt 
 
-  palette: 
-
+  palette:
+      scheme: default
+      primary: teal
     # Palette toggle for light mode
     - scheme: teal
       toggle:
