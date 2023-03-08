@@ -13,9 +13,9 @@ Lorem Ipsum it is a long established fact that a reader will be distracted by th
 <div class="center-container">
     <div id="center-search">
       <div class="mdc-text-field">
-        <input class="mdc-text-field__input" id="input1" type="text" placeholder="Search">
+        <input class="mdc-text-field__input" id="input1" style="background-color: whitesmoke;" type="text" placeholder="Search">
       </div>
-      <button class="mdc-button mdc-button--raised" id="move-button" onclick="moveText()">Search</button>
+      <button class="md-button md-button--primary " id="move-button" onclick="moveText()">Search</button>
     </div>
   </div>
 
