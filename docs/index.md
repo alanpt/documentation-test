@@ -19,7 +19,7 @@ Lorem Ipsum it is a long established fact that a reader will be distracted by th
     </div>
   </div>
 
-    <div class="nav-wrapper">
+<div class="nav-wrapper">
       <form>
         <div class="input-field">
           <input id="search" type="search" required>
@@ -27,7 +27,7 @@ Lorem Ipsum it is a long established fact that a reader will be distracted by th
           <i class="material-icons">close</i>
         </div>
       </form>
-    </div>
+</div>
 
 
 This page will showcase and explain:
