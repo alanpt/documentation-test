@@ -2,7 +2,7 @@
 # mkdocs-material: https://squidfunk.github.io/mkdocs-material/
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
-site_name: NeverTaking Support
+site_name: Evergiving Support
 repo_url: https://github.com/alanpt/documentation-test
 repo_name: alanpt/support
 theme:
