@@ -19,15 +19,15 @@ Lorem Ipsum it is a long established fact that a reader will be distracted by th
     </div>
   </div>
 
-<div class="row">
-  <div class="col s12 m6 offset-m3 center-align">
-    <div class="input-field">
-      <input id="input1" type="text" placeholder="Search">
-      <label for="input1">Search</label>
+    <div class="nav-wrapper">
+      <form>
+        <div class="input-field">
+          <input id="search" type="search" required>
+          <label class="label-icon" for="search"><i class="material-icons">search</i></label>
+          <i class="material-icons">close</i>
+        </div>
+      </form>
     </div>
-    <button class="btn waves-effect waves-light" id="move-button" onclick="moveText()">Search</button>
-  </div>
-</div>
 
 
 This page will showcase and explain:
