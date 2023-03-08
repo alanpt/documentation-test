@@ -17,10 +17,6 @@ theme:
   palette:
       scheme: default
       primary: teal
-      
-extra_javascript:
-  - javascripts/extra.js
-
 
   features:
     - announce.dismiss
@@ -43,6 +39,8 @@ extra_javascript:
     - search.suggest
     - toc.follow
     
+extra_javascript:
+  - javascripts/extra.js
     
 edit_uri: edit/master/docs/
 markdown_extensions: 
