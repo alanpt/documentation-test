@@ -19,16 +19,15 @@ Lorem Ipsum it is a long established fact that a reader will be distracted by th
     </div>
   </div>
 
-<div class="nav-wrapper">
-      <form>
-        <div class="input-field">
-          <input id="search" type="search" required>
-          <label class="label-icon" for="search"><i class="material-icons">search</i></label>
-          <i class="material-icons">close</i>
-        </div>
-      </form>
+<div class="input-group">
+  <div class="form-outline">
+    <input type="search" id="form1" class="form-control" />
+    <label class="form-label" for="form1">Search</label>
+  </div>
+  <button type="button" class="md-button md-button--primary">
+    <i class="fas fa-search"></i>
+  </button>
 </div>
-
 
 This page will showcase and explain:
 - Getting Started (a one pager)
