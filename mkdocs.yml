@@ -18,7 +18,8 @@ theme:
       scheme: default
       primary: teal
       
-
+extra_javascript:
+  - javascripts/extra.js
 
 
   features:
