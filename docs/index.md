@@ -1,12 +1,18 @@
 ---
-title: Home
-description: Frontpage of Support
+title: Evergiving Knowledgebase
+description: One-stop show of information for Evergiving Staff
 subtitle: A subtitle
 hide:
   - navigation
   - toc
   - feedback
 ---
+
+![[aliens.png]]
+
+This internal and private knowledgebase serves as a one-stop-shop for everything related to our biz, from employee onboarding and training to troubleshooting common software issues. Providing us aliens with access to a comprehensive database of information efficiently and effectively. Use the Edit icon on the top right to suggest or make changes on Github.
+
+
 
 <p>
 <form style="text-align:center"> 
@@ -15,73 +21,26 @@ hide:
 </form>
 </p>
 
-This internal and private knowledgebase serves as a one-stop-shop for everything related to our biz, from employee onboarding and training to troubleshooting common software issues. Providing us monsters with access to a comprehensive database of information efficiently and effectively. Use the Edit icon on the top right to suggest or make changes on Github.
 
-<div class="grid cards" markdown>
+-   __Getting Started__
 
--   :material-clock-fast:{ .lg .middle } __Getting Started__
-
-    ---
     Welcome to Evergiving
     Employee Handbook
     Onboarding Checklist
 
-    [:octicons-arrow-right-24: Getting started](#)
-
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
-
-    ---
-
-    Focus on your content and generate a responsive and searchable static site
-
-    [:octicons-arrow-right-24: Reference](#)
-
--   :material-format-font:{ .lg .middle } __Design__
-
-    ---
+-   __Design__
 
     Brand Guidelines, Styleguide
 
-    [:octicons-arrow-right-24: Design](#)
 
--   :material-scale-balance:{ .lg .middle } __Development__
+-   __Development__
 
-    ---
     Coding Standards
     Git Workflow
     Troubleshooting Common Issues
-
-    [:octicons-arrow-right-24: License](#)
-
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
-
-    ---
-
-    Focus on your content and generate a responsive and searchable static site
-
-    [:octicons-arrow-right-24: Reference](#)
-
--   :material-format-font:{ .lg .middle } __Design__
-
-    ---
-
-    Brand Guidelines, Styleguide
-
-    [:octicons-arrow-right-24: Design](#)
-
--   :material-scale-balance:{ .lg .middle } __Development__
-
-    ---
-    Coding Standards
-    Git Workflow
-    Troubleshooting Common Issues
-
-    [:octicons-arrow-right-24: License](#)  
-  
-</div>
 
       
-Supporting Clients
+- __Supporting Clients__
         Accounts
         Achievements and Training
         Banking and Validation
@@ -102,21 +61,21 @@ Supporting Clients
         Sponsorship
         Users
 
-Sales and Marketing
+- __Sales and Marketing__
         Sales Training Materials
         Marketing Campaign Best Practices
         Social Media Guidelines
 
-HR and Finance
+- __HR and Finance__
         Benefits Information
         Expense Reports
         Payroll Information
 
-Company Policies
+- __Company Policies__
         Time Off Policies
         Remote Work Guidelines
         Code of Conduct
 
-Miscellaneous
+- __Miscellaneous__
         FAQs
         Glossary of Terms
