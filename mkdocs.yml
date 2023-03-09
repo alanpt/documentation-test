@@ -38,9 +38,13 @@ theme:
     - search.share
     - search.suggest
     - toc.follow
+
     
 extra_javascript:
   - javascripts/extra.js
+
+extra_css:
+  - stylesheets/childpages_card_grid.css
     
 edit_uri: edit/master/docs/
 markdown_extensions: 
@@ -106,6 +110,12 @@ plugins:
         fallback_to_empty: false
         sort_authors_by: contribution 
         
+  - childpages-card-grid:
+      # include card grids on all pages (default True)
+      include_all: True
+      # the title shown above the card grid (default: 'Child pages')
+      cards_title: 'Child pages' 
+      
   - roamlinks 
     #- autolinks 
   - exclude:
