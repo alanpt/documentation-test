@@ -9,12 +9,10 @@ hide:
 ---
 # 
 
-<p style="text-align: center">
-  
-![aliens.png](attachment/aliens.png)
+
+![[aliens.png]
 
 
-</p>
 
 This internal and private knowledgebase serves as a one-stop-shop for everything related to our biz, from employee onboarding and training to troubleshooting common software issues. Providing us aliens with access to a comprehensive database of information efficiently and effectively. Use the Edit icon on the top right to suggest or make changes on Github.
 
