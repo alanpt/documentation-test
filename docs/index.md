@@ -11,18 +11,112 @@ hide:
 <p>
 <form style="text-align:center"> 
   <input type="text" id="form1" style="background-color:rgb(221,221,221); height:45px; padding-left:10px; width:300px;" /> 
-  <button type="button" class="md-button md-button--primary"> Search Documentation</button>
+  <button type="button" class="md-button md-button--primary"> Search Knowledgebase</button>
 </form>
 </p>
 
-# Welcome
-Lorem Ipsum it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+This internal and private knowledgebase serves as a one-stop-shop for everything related to our biz, from employee onboarding and training to troubleshooting common software issues. Providing us monsters with access to a comprehensive database of information efficiently and effectively. Use the Edit icon on the top right to suggest or make changes on Github.
 
+<div class="grid cards" markdown>
 
+-   :material-clock-fast:{ .lg .middle } __Getting Started__
 
-This page will showcase and explain:
-- Getting Started (a one pager)
-- FAQ Section
-- How To Section (The bulk of the articles)
-- Tips and Tricks Section
-- Advanced Section
+    ---
+    Welcome to Evergiving
+    Employee Handbook
+    Onboarding Checklist
+
+    [:octicons-arrow-right-24: Getting started](#)
+
+-   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+
+    ---
+
+    Focus on your content and generate a responsive and searchable static site
+
+    [:octicons-arrow-right-24: Reference](#)
+
+-   :material-format-font:{ .lg .middle } __Design__
+
+    ---
+
+    Brand Guidelines, Styleguide
+
+    [:octicons-arrow-right-24: Design](#)
+
+-   :material-scale-balance:{ .lg .middle } __Development__
+
+    ---
+    Coding Standards
+    Git Workflow
+    Troubleshooting Common Issues
+
+    [:octicons-arrow-right-24: License](#)
+
+-   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+
+    ---
+
+    Focus on your content and generate a responsive and searchable static site
+
+    [:octicons-arrow-right-24: Reference](#)
+
+-   :material-format-font:{ .lg .middle } __Design__
+
+    ---
+
+    Brand Guidelines, Styleguide
+
+    [:octicons-arrow-right-24: Design](#)
+
+-   :material-scale-balance:{ .lg .middle } __Development__
+
+    ---
+    Coding Standards
+    Git Workflow
+    Troubleshooting Common Issues
+
+    [:octicons-arrow-right-24: License](#)  
+  
+</div>
+
+      
+Supporting Clients
+        Accounts
+        Achievements and Training
+        Banking and Validation
+        Call Centre
+        Campaign Setup Options 
+        Dashboards
+        Donor Comms
+        EARN
+        Exports
+        Field
+        Imports
+        Instant Payments & Gateways
+        Issue Diagnosis & Recommendations
+        Payroll & Timesheets
+        Pledges
+        Privacy and Security
+        Setup for new customers
+        Sponsorship
+        Users
+
+Sales and Marketing
+        Sales Training Materials
+        Marketing Campaign Best Practices
+        Social Media Guidelines
+
+HR and Finance
+        Benefits Information
+        Expense Reports
+        Payroll Information
+
+Company Policies
+        Time Off Policies
+        Remote Work Guidelines
+        Code of Conduct
+
+Miscellaneous
+        FAQs
+        Glossary of Terms
