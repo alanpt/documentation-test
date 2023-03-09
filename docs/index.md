@@ -12,8 +12,6 @@ hide:
 
 This internal and private knowledgebase serves as a one-stop-shop for everything related to our biz, from employee onboarding and training to troubleshooting common software issues. Providing us aliens with access to a comprehensive database of information efficiently and effectively. Use the Edit icon on the top right to suggest or make changes on Github.
 
-
-
 <p>
 <form style="text-align:center"> 
   <input type="text" id="form1" style="background-color:rgb(221,221,221); height:45px; padding-left:10px; width:300px;" /> 
@@ -41,41 +39,46 @@ This internal and private knowledgebase serves as a one-stop-shop for everything
 
       
 - __Supporting Clients__
-        Accounts
-        Achievements and Training
-        Banking and Validation
-        Call Centre
-        Campaign Setup Options 
-        Dashboards
-        Donor Comms
-        EARN
-        Exports
-        Field
-        Imports
-        Instant Payments & Gateways
-        Issue Diagnosis & Recommendations
-        Payroll & Timesheets
-        Pledges
-        Privacy and Security
-        Setup for new customers
-        Sponsorship
-        Users
+
+    Accounts
+    Achievements and Training
+    Banking and Validation
+    Call Centre
+    Campaign Setup Options 
+    Dashboards
+    Donor Comms
+    EARN
+    Exports
+    Field
+    Imports
+    Instant Payments & Gateways
+    Issue Diagnosis & Recommendations
+    Payroll & Timesheets
+    Pledges
+    Privacy and Security
+    Setup for new customers
+    Sponsorship
+    Users
 
 - __Sales and Marketing__
-        Sales Training Materials
-        Marketing Campaign Best Practices
-        Social Media Guidelines
+
+    Sales Training Materials
+    Marketing Campaign Best Practices
+    Social Media Guidelines
 
 - __HR and Finance__
-        Benefits Information
-        Expense Reports
-        Payroll Information
+
+    Benefits Information
+    Expense Reports
+    Payroll Information
 
 - __Company Policies__
-        Time Off Policies
-        Remote Work Guidelines
-        Code of Conduct
+
+    Time Off Policies
+    Remote Work Guidelines
+    Code of Conduct
 
 - __Miscellaneous__
-        FAQs
-        Glossary of Terms
+
+    FAQs
+    Glossary of Terms
