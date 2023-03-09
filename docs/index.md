@@ -11,7 +11,7 @@ hide:
 
 <p style="text-align: center">
   
-![aliens.png](attachments/aliens.png)
+![aliens.png](attachment/aliens.png)
 
 
 </p>
