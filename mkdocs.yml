@@ -2,7 +2,7 @@
 # mkdocs-material: https://squidfunk.github.io/mkdocs-material/
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
-site_name: NeverTaking Support
+site_name: Evergiving Knowledgebase
 repo_url: https://github.com/alanpt/documentation-test
 repo_name: alanpt/support
 theme:
@@ -10,22 +10,13 @@ theme:
   custom_dir: docs/overrides
   language: en
   icon:
-    logo: material/library 
+    logo: assets/logo.png
   icon:
     repo: fontawesome/brands/git-alt 
-    
-  palette: 
-    # Palette toggle for light mode
-    - scheme: light green
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
 
-    # Palette toggle for dark mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+  palette:
+      scheme: default
+      primary: teal
 
   features:
     - announce.dismiss
@@ -34,17 +25,26 @@ theme:
     - content.code.copy
     - content.tooltips
     - navigation.instant
+#    - navigation.tabs
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.footer
     - navigation.indexes
-    - navigation.sections
-    - navigation.expand
+#    - navigation.sections
+#    - navigation.expand
     - navigation.top
     - navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
     - toc.follow
+
     
+extra_javascript:
+  - javascripts/extra.js
+
+extra_css:
+  - stylesheets/extra.css
     
 edit_uri: edit/master/docs/
 markdown_extensions: 
@@ -110,6 +110,7 @@ plugins:
         fallback_to_empty: false
         sort_authors_by: contribution 
         
+     
   - roamlinks 
     #- autolinks 
   - exclude:
