@@ -3,7 +3,6 @@ title: Home
 description: One-stop show of information for Evergiving Staff
 subtitle: A subtitle
 hide:
-  - navigation
   - toc
   - feedback
 ---
