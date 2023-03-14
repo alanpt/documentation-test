@@ -1,10 +1,7 @@
 ---
 title: Other
 hide:
-  - toc
   - feedback
-  - navigation
-  - path
 ---
 # Getting Started
    
