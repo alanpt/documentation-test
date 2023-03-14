@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/What is our Knowledgebase and how does it work.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/What is our Knowledgebase and how does it work.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/What is our Knowledgebase and how does it work.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/What is our Knowledgebase and how does it work.md"
+                "file": "index.md"
               }
             }
           }
@@ -219,9 +219,9 @@
   },
   "active": "7a62a46dcbcb59c3",
   "lastOpenFiles": [
+    "Other/What is our Knowledgebase and how does it work.md",
     "index.md",
     "Supporting Clients/index.md",
-    "Other/What is our Knowledgebase and how does it work.md",
     "Pasted image 20230315113917.png",
     "Other/index.md",
     "assets/templates/Background template.md",
