@@ -4,4 +4,4 @@ tags:
   - tutorial
 ---
 
-#  Mastering daa entry
+#  Mastering data entry
