@@ -121,7 +121,11 @@ plugins:
 
   - tags:
       tags_file: tags.md
-
+      tags_extra_files:
+        howto.md:
+          - howto
+        new.md: 
+          - new
 
 
   - git-authors:

@@ -1,6 +1,8 @@
-# Development
-This section might include:
+---
+title: Development
+---
 
-- Coding Standards
-- Git Workflow
-- Troubleshooting Common Issues
+
+    Coding Standards
+    Git Workflow
+    Troubleshooting Common Issues

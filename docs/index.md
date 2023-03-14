@@ -5,13 +5,15 @@ subtitle: A subtitle
 hide:
   - toc
   - feedback
+  - navigation
+  - path
 ---
 # 
 
 
 
 
-This internal and private knowledgebase serves as a one-stop-shop for everything related to our biz, from employee onboarding and training to troubleshooting common software issues. Providing us with access to a comprehensive database of information efficiently and effectively. Use the Edit icon on the top right to suggest or make changes on Github.
+This **internal and private** knowledgebase serves as a one-stop-shop for everything related to our biz, from employee onboarding and training to troubleshooting common software issues. Providing us with access to a comprehensive database of information efficiently and effectively. Use the Edit icon on the top right to suggest or make changes on Github.
 
 <p>
 <form style="text-align:center"> 
@@ -21,67 +23,19 @@ This internal and private knowledgebase serves as a one-stop-shop for everything
 </p>
 
 
--   __Getting Started__
 
-    Welcome to Evergiving
-    Employee Handbook
-    Onboarding Checklist
+__[[Supporting Clients/index|Supporting Clients]]__
+This section holds all the information needed when solving client support questions.
 
--   __Design__
+__[[Design/index|Design]]__
+This section holds all the information for when dealing with design including:
+- Brand Guidelines
+- Styleguide
 
-    Brand Guidelines, Styleguide
 
-
--   __Development__
-
-    Coding Standards
-    Git Workflow
-    Troubleshooting Common Issues
-
-      
-- __Supporting Clients__
-
-    Accounts
-    Achievements and Training
-    Banking and Validation
-    Call Centre
-    Campaign Setup Options 
-    Dashboards
-    Donor Comms
-    EARN
-    Exports
-    Field
-    Imports
-    Instant Payments & Gateways
-    Issue Diagnosis & Recommendations
-    Payroll & Timesheets
-    Pledges
-    Privacy and Security
-    Setup for new customers
-    Sponsorship
-    Users
-
-- __Sales and Marketing__
-
-    Sales Training Materials
-    Marketing Campaign Best Practices
-    Social Media Guidelines
-
-- __HR and Finance__
-
-    Benefits Information
-    Expense Reports
-    Payroll Information
-
-- __Company Policies__
-
-    Time Off Policies
-    Remote Work Guidelines
-    Code of Conduct
-
-- __Miscellaneous__
-
-    FAQs
-    Glossary of Terms
-
+__[[Development/index|Development]]__
+This section holds all the information developers may need including:
+   - Coding Standards
+   - Git Workflow
+   - Troubleshooting Common Issues
 
