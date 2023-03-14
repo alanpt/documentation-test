@@ -9,14 +9,30 @@ theme:
   name: material
   custom_dir: docs/overrides
   language: en
-  icon:
-    logo: assets/logo.png
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
   icon:
     repo: fontawesome/brands/git-alt 
-
+    tag:
+        new: material/new-box
+        howto: octicons/checklist-16
+  font:
+    text: Open Sans
   palette:
-      scheme: default
-      primary: teal
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: evergiving
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
   features:
     - announce.dismiss
@@ -25,13 +41,13 @@ theme:
     - content.code.copy
     - content.tooltips
     - navigation.instant
-#    - navigation.tabs
     - navigation.tabs
-    - navigation.tabs.sticky
+ #   - navigation.tabs.sticky
     - navigation.footer
     - navigation.indexes
-#    - navigation.sections
-#    - navigation.expand
+    - navigation.sections
+ #   - navigation.expand
+    - navigation.path
     - navigation.top
     - navigation.tracking
     - search.highlight
@@ -41,10 +57,10 @@ theme:
 
     
 extra_javascript:
-  - javascripts/extra.js
+  - assets/javascripts/extra.js
 
 extra_css:
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
     
 edit_uri: edit/master/docs/
 markdown_extensions: 
@@ -92,19 +108,22 @@ extra:
           note: >- 
             Thanks for your feedback! Help us improve this page by
             using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
-  
+  tags:
+    New Feature: new
+    How-to: howto
+
   
 plugins:
   - search
   - link-marker
+  - macros
+  - awesome-pages
 
-  - mkdocs-add-teaser:
-        teaser_class: 'teaser'
-        add_to_meta: true
   - tags:
-      tags_file: Advanced/tags.md
+      tags_file: tags.md
 
-  - git-revision-date-localized
+
+
   - git-authors:
         show_email_address: false
         fallback_to_empty: false
