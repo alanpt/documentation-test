@@ -5,9 +5,9 @@ tags:
    - Background
 ---
 
-**With so much information spread across different platforms, it's easy to get lost or waste time searching for what you need. Our knowledgebase solves this problem by bringing everything together in one place and with a super quick search.
+__With so much information spread across different platforms, it's easy to get lost or waste time searching for what you need. Our knowledgebase solves this problem by bringing everything together in one place and with a super quick search.__
 
-At the moment it is focused on articles needed for those supporting our clients.  In the end it will also host information for other areas of Evergiving.**
+__At the moment it is focused on articles needed for those supporting our clients.  In the end it will also host information for other areas of Evergiving.__
 
 ## Using the Docs-as-Code approach
 
