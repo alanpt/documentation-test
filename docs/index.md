@@ -32,7 +32,6 @@ This section holds all the information for when dealing with design including:
 - Brand Guidelines
 - Styleguide
 
-
 __[[Development/index|Development]]__
 This section holds all the information developers may need including:
    - Coding Standards
