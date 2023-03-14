@@ -1,1 +1,0 @@
-# NeverTaking Support Documentation
