@@ -68,8 +68,8 @@ markdown_extensions:
   - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
   - nl2br # newline-to-break 
   - pymdownx.emoji:
-    emoji_index: !!python/name:materialx.emoji.twemoji
-    emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - toc:
       permalink: '#' # heading anchor 
       slugify: !!python/name:pymdownx.slugs.uslugify 
@@ -124,11 +124,6 @@ plugins:
 
   - tags:
       tags_file: tags.md
-      tags_extra_files:
-        howto.md:
-          - howto
-        new.md: 
-          - new
 
 
   - git-authors:
