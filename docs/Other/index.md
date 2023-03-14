@@ -3,6 +3,7 @@ title: Other
 hide:
   - feedback
 ---
+
 # Getting Started
    
 - Welcome to Evergiving 
